@@ -1,0 +1,72 @@
+#cabecera{
+    background: radial-gradient(rgb(111, 164, 255), rgb(0, 199, 133), rgb(0, 168, 168));
+    border-style: solid;
+    border-color: rgb(3, 66, 45);
+    border-width: 7px;
+    border-radius: 20px 10px;
+    box-shadow: 5px 5px 10px rgb(3, 66, 45) ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: transform 1s ease 0.5s;
+}
+
+#cabecera:hover{
+    transform: rotate(3deg);
+}
+
+#barranav{
+    background-color: rgb(42, 184, 172);
+}
+
+#listahorizontal{
+    background-color:rgb(155, 214, 214);
+    display: inline;
+    margin-right: 3px;
+}
+
+aside{
+    background-color: darkgrey;
+    float:right;
+    height: 1930px;
+    padding-right: 15px;
+}
+
+span{
+    color:rgb(255, 255, 255);
+}
+
+a {
+    font-weight: bold;
+}
+
+section{
+    margin-right: 230px;
+    padding-left: 10px;
+}
+
+p{
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+address{
+    display: inline;
+    margin-inline-end: 20px;
+}
+
+
+
+#pepaxina{
+    text-align: center;
+    vertical-align:middle;
+    background: linear-gradient(rgb(111, 164, 255), rgb(0, 199, 133), rgb(0, 168, 168));
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: rgb(3, 66, 45);
+   
+}
