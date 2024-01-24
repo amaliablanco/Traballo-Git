@@ -1,0 +1,19 @@
+#cabecera{
+    background: radial-gradient(rgb(111, 164, 255), rgb(0, 199, 133), rgb(0, 168, 168));
+    border-style: solid;
+    border-color: rgb(3, 66, 45);
+    border-width: 7px;
+    border-radius: 20px 10px;
+    box-shadow: 5px 5px 10px rgb(3, 66, 45) ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: transform 1s ease 0.5s;
+}
+
+#cabecera:hover{
+    transform: rotate(3deg);
+}
+
+#barranav{
+    background-color: rgb(42, 184, 172);
+}
